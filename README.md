@@ -34,9 +34,6 @@ images/
 You can view the live website here:
 https://abhijeet8544.github.io/lnct-college-landing-page/
 
-📸 Screenshots
-
-(Add your project screenshots here)
 
 🎯 Purpose of the Project
 
